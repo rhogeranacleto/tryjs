@@ -1,0 +1,27 @@
+{
+	"name": "tryjs",
+	"version": "0.0.1",
+	"author": "Rhoger Anacleto <rhogeranacleto@gmail.com>",
+	"dependencies": {
+		"browserify-handbook": "^1.8.0"
+	},
+	"description": "quase angular, mas não",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "browserify",
+		"build-debug": "browserify app/try.js -o public/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rhogeranacleto/tryjs.git"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/rhogeranacleto/tryjs/issues"
+	},
+	"homepage": "https://github.com/rhogeranacleto/tryjs#readme"
+}

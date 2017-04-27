@@ -1,0 +1,1 @@
+window.Try = require('./app/try.js');

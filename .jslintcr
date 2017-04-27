@@ -1,0 +1,6 @@
+{
+	"node": true,
+	"esversion": 6,
+	"indent": "tabs",
+	"use_spaces":false
+}
