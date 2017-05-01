@@ -12,8 +12,7 @@
 	},
 	"devDependencies": {},
 	"scripts": {
-		"test": "browserify",
-		"build-debug": "browserify app/try.js -o public/main.js"
+		"test": "browserify app/try.js -o public/main.js"
 	},
 	"repository": {
 		"type": "git",
