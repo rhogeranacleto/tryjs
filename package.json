@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"author": "Rhoger Anacleto <rhogeranacleto@gmail.com>",
 	"dependencies": {
-		"browserify-handbook": "^1.8.0"
+		"browserify": "^14.3.0"
 	},
 	"description": "quase angular, mas não",
 	"main": "index.js",
